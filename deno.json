@@ -1,0 +1,8 @@
+{
+  "name": "@onisaint/reactive-store",
+  "version": "1.0.0",
+  "exports": "./mod.ts",
+  "tasks": {
+    "dev": "deno test --watch --trace-leaks test.ts"
+  }
+}
